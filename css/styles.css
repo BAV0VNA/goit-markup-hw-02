@@ -93,7 +93,7 @@ a {
 }
 .hero-button:hover,
 .hero-button:focus {
-  color: #404bbf;
+  background-color: #404bbf;
 }
 /* Section About us */
 .about-us {
@@ -108,8 +108,6 @@ a {
   color: #2e2f42;
 }
 .about-us-list {
-  /* display: flex;
-  gap: 12px; */
 }
 .about-us-item {
 }
